@@ -3,6 +3,7 @@ Diego Miranda   GTI Módulo III – Noturno
 
 
 Memórias
+
 Conceito de Memória RAM
 
 A memória RAM ou de acesso aleatório é utilizada frequentemente na informática para o armazenamento de programas e dados informativos.
